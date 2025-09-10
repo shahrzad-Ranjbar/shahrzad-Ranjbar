@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 سلام! من شهرزاد رنجبر هستم  
 
-<!--
-**shahrzad-Ranjbar/shahrzad-Ranjbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Frontend Developer | React & TypeScript Enthusiast  
 
-Here are some ideas to get you started:
+من یک توسعه‌دهنده فرانت‌اند هستم که عاشق ساخت رابط‌های کاربری زیبا، سریع و واکنش‌گراست.  
+همیشه دنبال یادگیری تکنولوژی‌های جدید و خلق تجربه کاربری عالی هستم. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 مهارت‌ها  
+- 🌐 HTML5  
+- 🎨 CSS3 | Bootstrap | TailwindCSS  
+- ⚡ JavaScript (ES6+)  
+- ⚛️ React.js | React + TypeScript  
+- 📱 طراحی واکنش‌گرا (Responsive Design)  
+
+---
+
+---
+
+## 📫 راه‌های ارتباطی  
+- ✉️ ایمیل: [shahrzadranjbar852@gmail.com](mailto:shahrzadranjbar852@gmail.com)  
+
+---
+
+⭐️ خوشحال می‌شم اگر پروژ‌هام براتون جالب بود، ستاره بدید یا فالو کنید :)
